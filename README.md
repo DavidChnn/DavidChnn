@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **david.chandra0501@gmail.com**
 
-- 📄 Know about my experiences [Portofolio]((https://drive.google.com/file/d/1Ec38OhYmUFgIvMY83cnaMUSWTAgFIBd0/view))
+- 📄 Know about my experiences [Portofolio](https://drive.google.com/file/d/1Ec38OhYmUFgIvMY83cnaMUSWTAgFIBd0/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
