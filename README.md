@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👨‍💻 All of my projects are available at [CV David Chandra](https://drive.google.com/file/d/12qO7P0OvEaXXsNVNHmhjcW3obSXWHa4D/view?usp=sharing)
+- 👨‍💻 All of my projects are available at [Curriculum Vitae](https://drive.google.com/file/d/12qO7P0OvEaXXsNVNHmhjcW3obSXWHa4D/view?usp=sharing)
 
 - 📫 How to reach me **david.chandra0501@gmail.com**
 
-- 📄 Know about my experiences [-](-)
+- 📄 Know about my experiences [Portofolio]((https://drive.google.com/file/d/1Ec38OhYmUFgIvMY83cnaMUSWTAgFIBd0/view))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
