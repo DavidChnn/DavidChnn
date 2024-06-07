@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👨‍💻 All of my projects are available at [-](-)
+- 👨‍💻 All of my projects are available at [CV David Chandra](https://drive.google.com/file/d/12qO7P0OvEaXXsNVNHmhjcW3obSXWHa4D/view?usp=sharing)
 
 - 📫 How to reach me **david.chandra0501@gmail.com**
 
