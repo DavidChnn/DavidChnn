@@ -2,7 +2,8 @@
 
 ### 👨🏽‍💻 About Me
 
-Once a web wizard casting spells with Next.js, I've expanded my realm to include Android development, crafting magical experiences across both platforms. When I'm not busy bringing apps and websites to life, you can find me brainstorming the next big tech idea or exploring the latest advancements in the tech world. Always up for a chat about code, innovative solutions, or the secrets of seamless user experiences. And remember, my passion for coding keeps me constantly curious and ready for the next challenge. 🚀
+By day, I build sleek websites and powerful Android apps; by night, I’m a tech superhero turning ideas into reality. When I’m not saving the digital world, I’m dreaming up the next big tech breakthrough or diving into the latest trends. Always up for a chat about code, new tech, or just finding the perfect coffee. My passion for coding keeps me curious and ready for the next adventure. 🚀
+
 ##### Connect with me:
 <p>
   <a href="https://linkedin.com/in/david-chandraa" target="blank">
