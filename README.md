@@ -1,8 +1,8 @@
 ## Hello, I'm David 👋
 
 ### 👨🏽‍💻 About Me
-
-By day, I build sleek websites and powerful Android apps; by night, I’m a tech superhero turning ideas into reality. When I’m not saving the digital world, I’m dreaming up the next big tech breakthrough or diving into the latest trends. Always up for a chat about code, new tech, or just finding the perfect coffee. My passion for coding keeps me curious and ready for the next adventure. 🚀
+**Founder & Lead Software Engineer @ Kreasi Kita**
+I blend technical expertise with an entrepreneurial mindset. As a BNSP Certified Web Developer & IT Auditor, I don't just write code. I build scalable systems that solve real business problems.
 
 ##### Connect with me:
 <p>
